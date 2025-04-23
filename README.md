@@ -25,7 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-map.html
+'''map.html
 
 
 <html>
@@ -115,8 +115,7 @@ vr.html
         <h3>VR Mall is a premier shopping destination in Anna Nagar, offering a wide range of retail stores, dining options, and entertainment facilities. The mall features international and local brands, a multiplex cinema, and a variety of cafes and restaurants, making it a popular spot for shopping, dining, and leisure activities for all ages.</h3>
     </body>
 </html>
-
-
+'''
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/cfb1e48d-fb0d-48e4-8ddf-6db5f9e62445)
 ![image](https://github.com/user-attachments/assets/a76a9410-8c19-4991-9411-1567b0326f92)
