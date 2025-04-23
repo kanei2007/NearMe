@@ -25,8 +25,6 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-'''
-''
 map.html
 <html>
 <head>
@@ -37,7 +35,7 @@ map.html
 <font color="yellow"><b>Redhills</b></font>
 </h1>
 <h3 align="center">
-<font color="red"><b>kaneimozhi S (24005925)</b></font>
+<font color="red"><b>kaneimozhi S(24005925)</b></font>
 </h3>
 <center>
 
@@ -168,7 +166,6 @@ STAG Cricket ground is known for its high standards.</font>
 </p>
 </body>
 </html>
-
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/cfb1e48d-fb0d-48e4-8ddf-6db5f9e62445)
 ![image](https://github.com/user-attachments/assets/a76a9410-8c19-4991-9411-1567b0326f92)
