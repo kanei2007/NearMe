@@ -37,7 +37,7 @@ map.html
 <font color="yellow"><b>Redhills</b></font>
 </h1>
 <h3 align="center">
-<font color="red"><b>Priyadharshini R(24900285)</b></font>
+<font color="red"><b>kaneimozhi S (24005925)</b></font>
 </h3>
 <center>
 
