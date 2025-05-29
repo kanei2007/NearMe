@@ -184,12 +184,17 @@ temple.html
     </body>
 </html>
 '''
+
+
 ## OUTPUT
-![alt text](<Screenshot 2025-05-29 091516.png>)
-![alt text](<Screenshot 2025-05-29 091620.png>)
-![alt text](<Screenshot 2025-05-29 091644.png>)
-![alt text](<Screenshot 2025-05-29 091740.png>)
-![alt text](<Screenshot 2025-05-29 091800.png>)
-![alt text](<Screenshot 2025-05-29 091831.png>)
+![alt text](kani/images/1.png)
+![alt text](kani/images/2.png)
+![alt text](kani/images/3.png)
+![alt text](kani/images/4.png)
+![alt text](kani/images/5.png)
+![alt text](kani/images/6.png)
+
+
+
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
